@@ -28,18 +28,21 @@ The best way to install Lua depends on your operating system.
 
 #### For Windows
 
-1. **Download the binaries:** Go to the **[LuaBinaries download page](https://sourceforge.net/projects/luabinaries/files/)** (I'll let you update this link, as you mentioned).
-2. Find the latest version (e.g., `lua-5.4.X`) and download the correct zip file for your system (e.g., `lua-5.4.X_Win64_bin.zip` for 64-bit Windows).
-3. **Extract the files:** Create a folder like `C:\Program Files\Lua` and extract the zip file's contents into it.
-4. **Update your PATH:**
+1. **Install Lua using Chocolatey:**
 
-- Search for "Edit the system environment variables" in your Start Menu and open it.
-- Click the "Environment Variables..." button.
-- Under "System variables," find and select the `Path` variable, then click "Edit..."
-- Click "New" and add the path to your Lua folder (e.g., `C:\Program Files\Lua`).
-- Click OK on all windows to save.
+```powershell
+choco install lua -y
+```
 
-5. **Verify:** Open a **new** Command Prompt or PowerShell window and type `lua -v`. It should print the version you just installed.
+2. **Verify the installation:**
+
+Close and reopen your terminal, then run:
+
+```powershell
+lua -v
+```
+
+You should see something like `Lua 5.4.x` — confirming that Lua is installed and available in your system PATH automatically.
 
 #### For macOS (using Homebrew)
 

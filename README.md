@@ -31,6 +31,7 @@ Jump directly into the documentation below:
 
 - This guide assumes prior programming fundamentals knowledge.
 - Core mathematics knowledge for game development.
+- Basic familiarity with the game engine.
 
 ### Recommended Reading Order
 
