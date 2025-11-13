@@ -4,8 +4,6 @@
   <img src="./assets/lua_banner.png" alt="Project Banner" width="100%" style="max-width: 900px; border-radius: 8px;">
 </div>
 
-<br/>
-
 ## 👋 What is Lua?
 
 Welcome to Lua! Lua is a powerful but simple programming language. The name "Lua" (pronounced **LOO-ah**) means "Moon" in Portuguese, which is fitting because it's light and fast.
