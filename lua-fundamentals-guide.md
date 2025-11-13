@@ -810,4 +810,4 @@ print(bonus)      -- 50
 
 **Rule of thumb:** If the function **CREATES** the object (like `new()`), use **`.`**. If the function **USES** the object's instance data (like `takeDamage()` or `sayName()`), use **`:`**.
 
----
+> The logo used in the banner belongs to https://www.lua.org/ and is included here for educational, non-commercial purposes. For licensing and usage details, please refer to the official Lua website.
