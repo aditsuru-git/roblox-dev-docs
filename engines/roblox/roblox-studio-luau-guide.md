@@ -1,7 +1,7 @@
 # Complete Roblox Studio & Luau Crash Course
 
 <div align="center">
-  <img src="./assets/roblox_studio_banner.png" alt="Project Banner" width="100%" style="max-width: 900px; border-radius: 8px;">
+  <img src="../../assets/roblox_studio_banner.png" alt="Project Banner" width="100%" style="max-width: 900px; border-radius: 8px;">
 </div>
 
 ## Part 1: Game Development Basics (General Concepts)

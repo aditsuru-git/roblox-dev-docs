@@ -1,7 +1,7 @@
 # A Beginner's Crash Course to Lua
 
 <div align="center">
-  <img src="./assets/lua_banner.png" alt="Project Banner" width="100%" style="max-width: 900px; border-radius: 8px;">
+  <img src="../assets/lua_banner.png" alt="Project Banner" width="100%" style="max-width: 900px; border-radius: 8px;">
 </div>
 
 ## 👋 What is Lua?

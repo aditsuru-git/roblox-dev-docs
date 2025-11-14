@@ -13,15 +13,15 @@ The guides cover essential scripting fundamentals in Luau, core usage of Roblox 
 
 Jump directly into the documentation below:
 
-### [Lua Fundamentals](./lua-fundamentals-guide.md)
+### [Lua Fundamentals](./languages/lua.md)
 
 - _A comprehensive guide to Lua programming basics and core concepts._
 
-### [Roblox Studio & Luau Fundamentals](./roblox-studio-luau-guide.md)
+### [Roblox Studio & Luau Fundamentals](./engines/roblox/roblox-studio-luau-guide.md)
 
 - _A foundational guide to the Roblox Studio environment and core concepts of the Luau scripting language._
 
-### [Rojo Developer Workflow](./rojo-dev-workflow-guide.md)
+### [Rojo Developer Workflow](./workflows/rojo-dev-workflow-guide.md)
 
 - _A guide detailing the setup and usage of Rojo for external development, Git integration, and managing modular codebases._
 
